@@ -1,2 +1,2 @@
-from .division import divide 
+from .divide import divide 
 
